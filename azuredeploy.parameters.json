@@ -1,0 +1,72 @@
+﻿{
+  "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "appInsightsLocation": {
+      "value": "South Central US"
+    },
+    "applicationId": {
+      "value": ""
+    },
+    "applicationSecret": {
+      "value": ""
+    },
+    "applicationTenantId": {
+      "value": ""
+    },
+    "audience": {
+      "value": ""
+    },
+    "branch": {
+      "value": "master"
+    },
+    "cacheSKUName": {
+      "value": "Basic"
+    },
+    "cacheSKUFamily": {
+      "value": "C"
+    },
+    "cacheSKUCapacity": {
+      "value": 0
+    },
+    "hostingPlanName": {
+      "value": ""
+    },
+    "keyVaultAppId": {
+      "value": ""
+    },
+    "keyVaultAppSecret": {
+      "value": ""
+    },
+    "keyVaultName": {
+      "value": ""
+    },
+    "keyVaultSkuName": {
+      "value": "Standard"
+    },
+    "keyVaultTenantId": {
+      "value": ""
+    },
+    "partnerCenterApplicationId": {
+      "value": ""
+    },
+    "partnerCenterApplicationSecret": {
+      "value": ""
+    },
+    "partnerCenterApplicationTenantId": {
+      "value": ""
+    },
+    "repoUrl": {
+      "value": "https://github.com/Microsoft/Partner-Center-Reporting"
+    },
+    "siteName": {
+      "value": ""
+    },
+    "skuName": {
+      "value": "B1"
+    },
+    "skuCapacity": {
+      "value": 1
+    }
+  }
+}
