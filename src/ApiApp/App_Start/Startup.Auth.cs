@@ -9,6 +9,7 @@ namespace Microsoft.Store.PartnerCenter.Reporting.Api
     using System.IdentityModel.Tokens;
     using global::Owin;
     using Microsoft.Owin.Security.Jwt;
+    using Providers;
     using Owin.Security.OAuth;
     using Practices.Unity;
     using Security;
